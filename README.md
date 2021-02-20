@@ -1,2 +1,2 @@
-# C20
-Learning algorithm
+# p5.play-boilerplate
+Boiler plate for p5.play
